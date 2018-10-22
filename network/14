@@ -1,0 +1,5 @@
+Command:
+dig +short -x 10.51.1.81
+
+Output:
+ldap-proxy.42.fr.
