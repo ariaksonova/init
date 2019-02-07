@@ -1,0 +1,2 @@
+netstat -natp
+#may be 'who'

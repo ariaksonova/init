@@ -1,8 +1,0 @@
-dig slash16.org
-
-In additional section in right most column there are ip addresses, copy one of
-those (e.g 205.251.192.144)
-
-whois 205.251.192.144
-
-Provider is Amazon.com

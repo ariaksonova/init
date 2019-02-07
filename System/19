@@ -1,0 +1,2 @@
+iptables -A INPUT -j REJECT
+iptables -A OUTPUT -j REJECT
